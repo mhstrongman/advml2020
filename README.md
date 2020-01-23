@@ -1,7 +1,7 @@
 # SC4/SM8 Advanced Topics in Statistical Machine Learning
 
 * Hilary Term 2020.
-* Department of Statistics, University of Oxford
+* [Department of Statistics, University of Oxford](http://www.stats.ox.ac.uk/)
 * Lecturer: [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/)
 * Large Lecture Theatre LG.01
 * Fridays 1100-1200, 1400-1500
