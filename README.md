@@ -45,11 +45,11 @@ The course materials will appear here before the course starts. They consist of 
 * Problem sheets are due Thursday noon weeks 3,5,7,TT1
 * Classes are on weeks 4,6,8,TT1
 * Class tutors and TAs:
-** [Adam Foster](http://csml.stats.ox.ac.uk/people/foster/)
-** [Emile Mathieu](http://csml.stats.ox.ac.uk/people/mathieu/)
-** [Deborah Sulem](http://www.oxwasp-cdt.ac.uk/2018-student-cohort.html)
-** [Jin Xu](http://csml.stats.ox.ac.uk/people/xu/)
-** [Charline Le Lan](http://csml.stats.ox.ac.uk/people/lelan/)
+  * [Adam Foster](http://csml.stats.ox.ac.uk/people/foster/)
+  * [Emile Mathieu](http://csml.stats.ox.ac.uk/people/mathieu/)
+  * [Deborah Sulem](http://www.oxwasp-cdt.ac.uk/2018-student-cohort.html)
+  * [Jin Xu](http://csml.stats.ox.ac.uk/people/xu/)
+  * [Charline Le Lan](http://csml.stats.ox.ac.uk/people/lelan/)
 
 
 ### Information for MSc Statistical Science Students
