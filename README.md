@@ -5,6 +5,8 @@
 * Lecturer: [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/)
 * Large Lecture Theatre LG.01
 * Fridays 1100-1200, 1400-1500
+* [canvas.ox page](https://canvas.ox.ac.uk/courses/18791)
+* [stats.ox student resources](http://www.stats.ox.ac.uk/student-resources/bammath/)
 
 
 ## Course Materials
@@ -33,9 +35,16 @@ The course materials will appear here before the course starts. They consist of 
 * for [DPhil and CDT students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-dphil-and-cdt-students)
 
 ### Information for Part C and OMMS Students
+* [weblearn intercollegiate class signup](https://weblearn.ox.ac.uk/portal/site/:mpls:stats:mmathba_math:class-signup)
+* [miverva intercollegiate class list](https://minerva.stats.ox.ac.uk/perl/classlists.pl)
 * Problem sheets are due Thursday noon weeks 3,5,7,TT1
-* Classes are on Tuesdays of weeks 4,6,8,TT1
-* Class tutors: 
+* Classes are on weeks 4,6,8,TT1
+* Class tutors and TAs:
+** [Adam Foster](http://csml.stats.ox.ac.uk/people/foster/)
+** [Emile Mathieu](http://csml.stats.ox.ac.uk/people/mathieu/)
+** [Deborah Sulem](http://www.oxwasp-cdt.ac.uk/2018-student-cohort.html)
+** [Jin Xu](http://csml.stats.ox.ac.uk/people/xu/)
+** [Charline Le Lan](http://csml.stats.ox.ac.uk/people/lelan/)
 
 
 ### Information for MSc Statistical Science Students
