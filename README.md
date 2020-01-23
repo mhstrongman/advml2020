@@ -1,4 +1,4 @@
-# SC4/SM8 Advanced Topics in Machine Learning
+# SC4/SM8 Advanced Topics in Statistical Machine Learning
 
 * Hilary Term 2020.
 * Department of Statistics, University of Oxford
