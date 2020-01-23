@@ -10,6 +10,9 @@ Links:
 * [course materials](https://github.com/ywteh/advml2020/blob/master/README.md#course-materials)
 * [special guest lectures](https://github.com/ywteh/advml2020/blob/master/README.md#special-guest-lectures)
 * [information for students](https://github.com/ywteh/advml2020/blob/master/README.md#information)
+  * for [Part C and OMMS students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-part-c-and-omms-students)
+  * for [MSc Statistical Science students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-msc-statistical-science-students)
+  * for [DPhil and CDT students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-dphil-and-cdt-students)
 
 ## Special Guest Lectures:
 * Thursdays 1430-1630 in LG.01
@@ -37,9 +40,6 @@ The course materials will appear here before the course starts. They consist of 
 
 
 ## Information:
-* for [Part C and OMMS students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-part-c-and-omms-students)
-* for [MSc Statistical Science students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-msc-statistical-science-students)
-* for [DPhil and CDT students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-dphil-and-cdt-students)
 
 ### Information for Part C and OMMS Students
 * [weblearn intercollegiate class signup](https://weblearn.ox.ac.uk/portal/site/:mpls:stats:mmathba_math:class-signup)
