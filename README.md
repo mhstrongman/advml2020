@@ -8,7 +8,7 @@ Information:
 *
 
 Notes:
-* 
+* [pdf notes up to kernels](https://github.com/ywteh/advml2020/blob/master/notes.pdf) Updated 23/1/2020.
 
 Slides:
 *
