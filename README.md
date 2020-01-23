@@ -19,9 +19,9 @@ The course materials will appear here before the course starts. They consist of 
 *
 
 ### Information:
-* for Part C and OMMS students
-* for MSc Statistical Science students
-* for DPhil and CDT students
+* for [Part C and OMMS students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-part-c-and-omms-students)
+* for [MSc Statistical Science students]()
+* for [DPhil and CDT students]()
 
 ### Information for Part C and OMMS Students
 
