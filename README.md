@@ -5,6 +5,11 @@
 * Lecturer: [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/)
 * Large Lecture Theatre LG.01
 * Fridays 1100-1200, 1400-1500
+
+Links:
+* [course materials](https://github.com/ywteh/advml2020/blob/master/README.md#course-materials)
+* [special guest lectures](https://github.com/ywteh/advml2020/blob/master/README.md#special-guest-lectures)
+* [information for students](https://github.com/ywteh/advml2020/blob/master/README.md#information)
 * [canvas.ox page](https://canvas.ox.ac.uk/courses/18791)
 * [stats.ox student resources](http://www.stats.ox.ac.uk/student-resources/bammath/)
 
