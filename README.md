@@ -1,10 +1,9 @@
 # SC4/SM8 Advanced Topics in Statistical Machine Learning
 
-* Hilary Term 2020.
-* [Department of Statistics, University of Oxford](http://www.stats.ox.ac.uk/)
+* Times: Fridays 1000-1100, 1400-1500, Hilary Term 2020.
+* Venue: Large Lecture Theatre LG.01, [Department of Statistics, University of Oxford](http://www.stats.ox.ac.uk/)
 * Lecturer: [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/)
-* Large Lecture Theatre LG.01
-* Fridays 1000-1100, 1400-1500
+* Website: https://github.com/ywteh/advml2020
 
 Links:
 * [course information](https://github.com/ywteh/advml2020/blob/master/README.md#course-information)
