@@ -7,12 +7,15 @@
 * Fridays 1100-1200, 1400-1500
 
 Links:
+* [course information](https://github.com/ywteh/advml2020/blob/master/README.md#course-information)
 * [course materials](https://github.com/ywteh/advml2020/blob/master/README.md#course-materials)
 * [special guest lectures](https://github.com/ywteh/advml2020/blob/master/README.md#special-guest-lectures)
 * [information for students](https://github.com/ywteh/advml2020/blob/master/README.md#information)
   * for [Part C and OMMS students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-part-c-and-omms-students)
   * for [MSc Statistical Science students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-msc-statistical-science-students)
   * for [DPhil and CDT students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-dphil-and-cdt-students)
+
+## Course Information
 
 ### Aims and objectives:
 Machine learning is widely used across the sciences, engineering and society, to construct methods for identifying interesting patterns and predicting accurately from large datasets.
