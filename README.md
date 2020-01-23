@@ -10,9 +10,14 @@ Links:
 * [course materials](https://github.com/ywteh/advml2020/blob/master/README.md#course-materials)
 * [special guest lectures](https://github.com/ywteh/advml2020/blob/master/README.md#special-guest-lectures)
 * [information for students](https://github.com/ywteh/advml2020/blob/master/README.md#information)
-* [canvas.ox page](https://canvas.ox.ac.uk/courses/18791)
-* [stats.ox student resources](http://www.stats.ox.ac.uk/student-resources/bammath/)
 
+## Special Guest Lectures:
+* Thursdays 1430-1630 in LG.01
+* Feb 13 week 4: Nicolas Heess and Leonard Hasenclever (DeepMind) on reinforcement learning
+* Feb 27 week 6: Arthur Gretton (Gatsby Unit, UCL) on kernels and generative adversarial networks
+* Mar 5 week 7: Razvan Pascanu (DeepMind)
+* Mar 6 week 8: Max Welling (Amsterdam, Qualcomm) (departmental distinguished seminar)
+* Mar 12 week 8: Silvia Chiappa (DeepMind)
 
 ## Course Materials
 The course materials will appear here before the course starts. They consist of notes, slides, and Jupyter notebooks. Notes may not be exhaustive and should be used in conjunction with the slides. All materials may be updated during the course and are thus best read on screen. Please email me any typos or corrections.
@@ -26,13 +31,10 @@ The course materials will appear here before the course starts. They consist of 
 ### Problem Sheets:
 * 
 
-## Special Guest Lectures:
-* Thursdays 1430-1630 in LG.01
-* Feb 13 week 4: Nicolas Heess and Leonard Hasenclever (DeepMind) on reinforcement learning
-* Feb 27 week 6: Arthur Gretton (Gatsby Unit, UCL) on kernels and generative adversarial networks
-* Mar 5 week 7: Razvan Pascanu (DeepMind)
-* Mar 6 week 8: Max Welling (Amsterdam, Qualcomm) (departmental distinguished seminar)
-* Mar 12 week 8: Silvia Chiappa (DeepMind)
+### Other Resources:
+* [canvas.ox page](https://canvas.ox.ac.uk/courses/18791)
+* [stats.ox student resources](http://www.stats.ox.ac.uk/student-resources/bammath/)
+
 
 ## Information:
 * for [Part C and OMMS students](https://github.com/ywteh/advml2020/blob/master/README.md#information-for-part-c-and-omms-students)
