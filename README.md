@@ -4,7 +4,7 @@
 * [Department of Statistics, University of Oxford](http://www.stats.ox.ac.uk/)
 * Lecturer: [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/)
 * Large Lecture Theatre LG.01
-* Fridays 1100-1200, 1400-1500
+* Fridays 1000-1100, 1400-1500
 
 Links:
 * [course information](https://github.com/ywteh/advml2020/blob/master/README.md#course-information)
@@ -109,7 +109,8 @@ The course materials will appear here before the course starts. They consist of 
   * [Emile Mathieu](http://csml.stats.ox.ac.uk/people/mathieu/)
   * [Deborah Sulem](http://www.oxwasp-cdt.ac.uk/2018-student-cohort.html)
   * [Jin Xu](http://csml.stats.ox.ac.uk/people/xu/)
-  * [Charline Le Lan](http://csml.stats.ox.ac.uk/people/lelan/)
+  * [Michael Hutchinson](https://statml.io/index.php/cohort-1/)
+  * [Jean-Francois Ton](http://csml.stats.ox.ac.uk/people/ton/)
 
 
 ### Information for MSc Statistical Science Students
