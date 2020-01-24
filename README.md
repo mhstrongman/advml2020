@@ -5,6 +5,10 @@
 * Lecturer: [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/)
 * Website: https://github.com/ywteh/advml2020
 
+Announcements:
+* 24/1: Slides for weeks 1-2 and problem sheet 1 uploaded. 
+* Part C/OMMS: due Thursday noon week 3. MSc: class Friday 3pm week 3.
+
 Links:
 * [course information](https://github.com/ywteh/advml2020/blob/master/README.md#course-information)
 * [course materials](https://github.com/ywteh/advml2020/blob/master/README.md#course-materials)
