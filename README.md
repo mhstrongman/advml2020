@@ -92,10 +92,11 @@ The course materials will appear here before the course starts. They consist of 
 * [Notes up to kernels](https://github.com/ywteh/advml2020/blob/master/notes.pdf). Updated 23/1/2020.
 
 ### Slides:
-*
+* [slides01](https://github.com/ywteh/advml2020/blob/master/slides/slides01.pdf): Admin, PCA, K-means, empirical risk minimisation
+* [slides02](https://github.com/ywteh/advml2020/blob/master/slides/slides01.pdf): Convex duality, SVMs, kernels
 
 ### Problem Sheets:
-* 
+* [sheet1](https://github.com/ywteh/advml2020/blob/master/problemsheets/sheet1.pdf) due Thursday noon week 3
 
 ### Other Resources:
 * [canvas.ox page](https://canvas.ox.ac.uk/courses/18791)
