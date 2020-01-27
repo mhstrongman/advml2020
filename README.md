@@ -78,12 +78,12 @@ Knowledge of Python is not required for this course, but some descriptive exampl
 ## Special Guest Lectures:
 There will be a series of special guest lectures on (even more) advanced topics in machine learning. These will be 1.5-2 hours in length, with first half being more pedagogical introduction to an area and second half a research seminar. These are not examinable.
 
-* Thursdays 1430-1630 in LG.01
-* Feb 13 week 4: Nicolas Heess and Leonard Hasenclever (DeepMind) on reinforcement learning and control
-* Feb 27 week 6: Arthur Gretton (Gatsby Unit, UCL) on kernels and generative adversarial networks
+* Some Thursdays in LG.01
+* Feb 13 1300-1500 week 4: Nicolas Heess and Leonard Hasenclever (DeepMind) on reinforcement learning and control
+* Feb 27 1330-1500 week 6: Arthur Gretton (Gatsby Unit, UCL) on kernels and generative adversarial networks
 * Mar 5 week 7: Razvan Pascanu (DeepMind) on looking at data efficiency from the learning algorithm perspective
-* Mar 6 week 8 **Friday 330-430pm**: Max Welling (Amsterdam, Qualcomm) (departmental distinguished seminar)
-* Mar 12 week 8: Silvia Chiappa (DeepMind)
+* Mar 6 **Friday 330-430pm** week 8: Max Welling (Amsterdam, Qualcomm) (departmental distinguished seminar)
+* Mar 12 1300-1500 week 8: Silvia Chiappa (DeepMind)
 
 ## Course Materials
 The course materials will appear here before the course starts. They consist of notes, slides, and Jupyter notebooks. Notes may not be exhaustive and should be used in conjunction with the slides. All materials may be updated during the course and are thus best read on screen. Please email me any typos or corrections.
