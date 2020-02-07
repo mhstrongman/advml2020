@@ -7,6 +7,7 @@
 
 Announcements:
 * 13/2: [Nicolas Heess and Leonard Hasenclever (DeepMind)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Nicolas-Heess-and-Leonard-Hasenclever-(DeepMind)) will be giving guest lecture 1-3pm.
+* 7/2: Direct link to [lecture recordings](https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22d6d22cc2-a81f-4827-9e02-ab4b009b59d0%22).
 * 7/2: Slides for weeks 1-3 and problem sheet 1 answers uploaded. 
 * Part C/OMMS: due Thursday noon week 3. MSc: class Friday 3pm week 3.
 
@@ -102,6 +103,7 @@ The course materials will appear here before the course starts. They consist of 
 ### Other Resources:
 * [canvas.ox page](https://canvas.ox.ac.uk/courses/18791)
 * [stats.ox student resources](http://www.stats.ox.ac.uk/student-resources/bammath/)
+* [lecture recordings](https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22d6d22cc2-a81f-4827-9e02-ab4b009b59d0%22)
 
 
 ## Information:
