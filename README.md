@@ -6,7 +6,8 @@
 * Website: https://github.com/ywteh/advml2020
 
 Announcements:
-* 24/1: Slides for weeks 1-2 and problem sheet 1 uploaded. 
+* 13/2: [Nicolas Heess and Leonard Hasenclever (DeepMind)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Nicolas-Heess-and-Leonard-Hasenclever-(DeepMind)) will be giving guest lecture 1-3pm.
+* 7/2: Slides for weeks 1-3 and problem sheet 1 answers uploaded. 
 * Part C/OMMS: due Thursday noon week 3. MSc: class Friday 3pm week 3.
 
 Links:
