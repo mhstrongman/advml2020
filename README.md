@@ -6,6 +6,7 @@
 * Website: https://github.com/ywteh/advml2020
 
 Announcements:
+* 28/2: Lecture times moved to 2-4pm (back to back).
 * 20/2: [Problem sheet 2](https://github.com/ywteh/advml2020/blob/master/problemsheets/sheet2.pdf) available now, and due 20/2 noon.
 * 13/2: [Nicolas Heess and Leonard Hasenclever (DeepMind)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Nicolas-Heess-and-Leonard-Hasenclever-(DeepMind)) will be giving guest lecture 1-3pm.
 * 7/2: Direct link to [lecture recordings](https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22d6d22cc2-a81f-4827-9e02-ab4b009b59d0%22).
