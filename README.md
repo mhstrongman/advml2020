@@ -7,6 +7,7 @@
 
 Announcements:
 * 28/2: Lecture times moved to 2-4pm (back to back).
+* 27/2: [Arthur Gretton (Gatsby Unit, UCL)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Arthur-Gretton-(Gatsby-Unit,-UCL)) will be giving a guest lecture on GANs and MMD.
 * 20/2: [Problem sheet 2](https://github.com/ywteh/advml2020/blob/master/problemsheets/sheet2.pdf) available now, and due 20/2 noon.
 * 13/2: [Nicolas Heess and Leonard Hasenclever (DeepMind)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Nicolas-Heess-and-Leonard-Hasenclever-(DeepMind)) will be giving guest lecture 1-3pm.
 * 7/2: Direct link to [lecture recordings](https://ox.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22d6d22cc2-a81f-4827-9e02-ab4b009b59d0%22).
@@ -84,7 +85,7 @@ There will be a series of special guest lectures on (even more) advanced topics 
 
 * Some Thursdays in LG.01
 * Feb 13 1300-1500 week 4: Nicolas Heess and Leonard Hasenclever (DeepMind) on reinforcement learning and control
-* Feb 27 1330-1500 week 6: Arthur Gretton (Gatsby Unit, UCL) on kernels and generative adversarial networks
+* Feb 27 1330-1500 week 6: [Arthur Gretton (Gatsby Unit, UCL)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Arthur-Gretton-(Gatsby-Unit,-UCL))
 * Mar 5 week 7: Razvan Pascanu (DeepMind) on looking at data efficiency from the learning algorithm perspective
 * Mar 6 **Friday 330-430pm** week 8: Max Welling (Amsterdam, Qualcomm) (departmental distinguished seminar)
 * Mar 12 1300-1500 week 8: Silvia Chiappa (DeepMind)
