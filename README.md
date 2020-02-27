@@ -6,6 +6,7 @@
 * Website: https://github.com/ywteh/advml2020
 
 Announcements:
+* 5/3: [Problem sheet 3](https://github.com/ywteh/advml2020/blob/master/problemsheets/sheet3.pdf) available now, and due 5/3 noon.
 * 28/2: Lecture times moved to 2-4pm (back to back).
 * 27/2: [Arthur Gretton (Gatsby Unit, UCL)](https://github.com/ywteh/advml2020/wiki/Guest-Lecture:-Arthur-Gretton-(Gatsby-Unit,-UCL)) will be giving a guest lecture on GANs and MMD.
 * 20/2: [Problem sheet 2](https://github.com/ywteh/advml2020/blob/master/problemsheets/sheet2.pdf) available now, and due 20/2 noon.
